@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @manideepreddynukala
 - 👀 I’m interested in Java/Spring development
 - 🌱 I’m currently learning to work on large scale distributed applications
-- 💞️ I’m looking to collaborate on independent projects/comptitive coding using Java/Spring
+- 💞️ I’m looking to collaborate on independent projects/competitive coding using Java/Spring
 - 📫 How to reach me manideepn95@gmail.com
 
 <!---
